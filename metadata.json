@@ -1,0 +1,6 @@
+{
+  "name": "Scamurai - AI Physical Access Fraud Detection",
+  "description": "Real-time AI behavioral anomaly and fraud detection engine for Salto door access and Gantner locker telemetry, featuring impossible travel mapping, baseline analytics, and edge-case simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
